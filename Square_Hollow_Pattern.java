@@ -1,3 +1,15 @@
+/* 
+Quesetion: Write a program to print the square hollow pattern.
+******
+*    *
+*    *
+*    *
+******
+*/
+
+
+
+
 import java.lang.classfile.TypeAnnotation.SupertypeTarget;
 import java.util.Scanner;
 
